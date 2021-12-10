@@ -49,8 +49,8 @@ style="color:white;"align="center">Tocar guitarra.</p>
 
   <h2> <a href="https://www.instagram.com/saloma0_br1tto_/" align="center" target="blank"/style="color:white;">Meu instagram.</a> </h2>
   
-  <img src="salomão.jpg" height="40%%" width="20%" alt="guitarra">
-  <img src="salomas.jpg" height="40%%" width="20%" alt="salomão"> 
+  <img src="salomão.jpeg" height="40%%" width="20%" alt="guitarra">
+  <img src="salomas.jpeg" height="40%%" width="20%" alt="salomão"> 
   <img src="https://media1.giphy.com/media/mgJxwaXS9HzBPhkxUy/200w.gif" height="40%%" width="20%">
             </body> 
 
